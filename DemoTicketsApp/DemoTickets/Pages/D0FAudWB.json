@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "code",
+  "parent": "gTiG2o8L",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "D0FAudWB",
+  "value": "code",
+  "values": {
+    "code": "if (!currentUser)  {\nprops.history.push(\"/\")\n}"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "MenuItem",
+  "parent": "pgWiIUTK",
+  "path": "MenuItem.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "iMbGpQxT",
+  "value": "MenuItem",
+  "values": {
+    "onclick": "(params) => { AuthService.logout(); location.reload() }"
+  }
+}

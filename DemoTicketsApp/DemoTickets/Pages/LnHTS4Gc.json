@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "div",
+  "parent": "doXqNFWi",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "LnHTS4Gc",
+  "value": "div",
+  "values": {
+    "class": "theme.menuProfileDetails"
+  }
+}

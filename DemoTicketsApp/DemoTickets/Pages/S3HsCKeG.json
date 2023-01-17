@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "ROv9eTOU",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "S3HsCKeG",
+  "value": "text",
+  "values": {
+    "Content": "Logout"
+  }
+}

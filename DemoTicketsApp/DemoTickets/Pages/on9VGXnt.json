@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "Text Content",
+  "parent": "KDm756QR",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "on9VGXnt",
+  "value": "text",
+  "values": {
+    "Content": "Email"
+  }
+}

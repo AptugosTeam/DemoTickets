@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "div",
+  "parent": "Su0WBZ3G",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fxNg5qf4",
+  "value": "div",
+  "values": {
+    "class": "theme.flexLine"
+  }
+}

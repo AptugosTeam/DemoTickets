@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "snackbar",
+  "parent": "yZQP8cy7",
+  "path": "snackbar.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NIP8KMxs",
+  "value": "snackbar",
+  "values": {
+    "varName": "snackBarOpen",
+    "message": "Cargado Correctamente! ",
+    "autohide": "4000",
+    "position": "Top-Center"
+  }
+}

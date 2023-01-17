@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Register Functionality",
+  "parent": "wcUsrAma",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gGV6h4ql",
+  "value": "dummyEncloser"
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "image",
+  "parent": "IUCgndqT",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yHGJtdO7",
+  "value": "image",
+  "values": {
+    "path": "/img/${currentUser.ProfilePic}",
+    "ClassName": []
+  }
+}

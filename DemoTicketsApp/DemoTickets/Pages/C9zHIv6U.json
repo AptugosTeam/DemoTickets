@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "authHeaders",
+  "parent": "l9SRGMxB",
+  "path": "import.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "C9zHIv6U",
+  "value": "import",
+  "values": {
+    "moduleName": "authHeaders",
+    "modulePath": "../services/auth-header"
+  }
+}

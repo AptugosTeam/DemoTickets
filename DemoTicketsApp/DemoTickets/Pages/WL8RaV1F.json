@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "navLink",
+  "parent": "dIeTLt2t",
+  "path": "navLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "WL8RaV1F",
+  "value": "navLink",
+  "values": {
+    "Destination": "/crearTicket",
+    "destination": "/crearTicket",
+    "linkText": "Crear Ticket"
+  }
+}

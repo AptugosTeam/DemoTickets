@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "watchVariable",
+  "parent": "m3x5AmFI",
+  "path": "watchVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gTiG2o8L",
+  "value": "watchVariable",
+  "values": {
+    "watchVariable": "currentUser"
+  }
+}

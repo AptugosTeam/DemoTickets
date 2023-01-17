@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "RrnGR1F1",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "BqmJ7a2E",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/crearTicket",
+    "tagToUse": "NavLink"
+  }
+}

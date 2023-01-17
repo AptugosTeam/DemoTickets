@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "pgWiIUTK",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8MMkM7uU",
+  "value": "div",
+  "values": {
+    "class": "theme.menuProfileDetails"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "childs": [
+    {
+      "name": "Text Content",
+      "element": "text"
+    }
+  ],
+  "name": "typography",
+  "originalName": "typography",
+  "parent": "c7iS8VVm",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fJTUxe1F",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  }
+}

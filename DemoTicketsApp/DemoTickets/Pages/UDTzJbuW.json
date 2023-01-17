@@ -1,0 +1,17 @@
+{
+  "cascades": true,
+  "collapseStatus": "collapse",
+  "isinherited": false,
+  "name": "themeSelection",
+  "open": false,
+  "parent": "Vo55l63T",
+  "path": "themeSelection.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "UDTzJbuW",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum"
+  }
+}

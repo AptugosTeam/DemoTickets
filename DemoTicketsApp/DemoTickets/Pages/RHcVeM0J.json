@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "NJw9PDUK",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RHcVeM0J",
+  "value": "text",
+  "values": {
+    "Content": "<span>(you can edit me at the Page Manager)</span>"
+  }
+}

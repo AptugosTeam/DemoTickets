@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "alertMessage",
+  "parent": "flNUXHTV",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sTalSiEo",
+  "value": "alertMessage",
+  "values": {
+    "variant": "standard",
+    "severity": "success"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "code",
+  "parent": "CL7aTd6T",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "6BETPrkQ",
+  "value": "code",
+  "values": {
+    "code": "if (!authHeaders()) { \n  props.history.push(\"/Login\")\n}"
+  }
+}

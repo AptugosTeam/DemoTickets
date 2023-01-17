@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "Container",
+  "parent": "aQQ7bUch",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "k16qLPf4",
+  "value": "Container",
+  "values": {
+    "maxWidth": "lg"
+  }
+}

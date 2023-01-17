@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "autolinking",
+  "parent": "SFUM8UP3",
+  "path": "autolinking.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "6Rlb68Td",
+  "value": "autolinking",
+  "values": {
+    "fromLink": "3CiXz6EZ"
+  }
+}

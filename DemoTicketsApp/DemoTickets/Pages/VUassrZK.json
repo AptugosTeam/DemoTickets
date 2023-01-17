@@ -1,0 +1,23 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "childs": [
+    {
+      "name": "Text Content",
+      "element": "text"
+    }
+  ],
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "typography",
+  "originalName": "typography",
+  "parent": "WzhdSRtd",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VUassrZK",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  }
+}

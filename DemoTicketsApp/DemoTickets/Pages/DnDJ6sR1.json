@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "AuthService",
+  "parent": "baIM40gR",
+  "path": "import.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DnDJ6sR1",
+  "value": "import",
+  "values": {
+    "moduleName": "AuthService",
+    "modulePath": "../services/auth.service"
+  }
+}

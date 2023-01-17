@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "checkbox",
+  "parent": "fxNg5qf4",
+  "path": "checkbox.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9mAQ8n79",
+  "value": "checkbox",
+  "values": {
+    "Checked": "loginData.RememberMe",
+    "label": "Remember me",
+    "OnClick": "{() => { setloginData({ ...loginData, RememberMe: !loginData.RememberMe }) }}"
+  }
+}

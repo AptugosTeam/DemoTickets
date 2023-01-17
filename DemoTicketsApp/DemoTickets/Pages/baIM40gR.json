@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "internalUse": true,
+  "isinherited": false,
+  "name": "Before Page Render",
+  "parent": "8cIsqdxz",
+  "path": "bpr.tpl",
+  "prevent_delete": true,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "baIM40gR",
+  "value": "bpr"
+}

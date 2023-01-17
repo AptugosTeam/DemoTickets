@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "text",
+  "parent": "JzV6y0dT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "L5eGU1vT",
+  "value": "text",
+  "values": {
+    "Content": "Cargar Ticket"
+  }
+}

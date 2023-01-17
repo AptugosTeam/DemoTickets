@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "field",
+  "parent": "WBnMNVtB",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "xR37fcp1",
+  "value": "field",
+  "values": {
+    "Field": "7NTHPrrF",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined"
+  }
+}

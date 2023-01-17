@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "loop",
+  "parent": "m9UXkqt7",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "iHmQx6R1",
+  "value": "loop",
+  "values": {
+    "variablename": "ticket",
+    "variable": "allTickets"
+  }
+}

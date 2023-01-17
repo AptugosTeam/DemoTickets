@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Recover Success!",
+  "parent": "i7lNZRDo",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "flNUXHTV",
+  "value": "condition",
+  "values": {
+    "condition": "recoverSuccess"
+  }
+}

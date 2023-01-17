@@ -1,0 +1,26 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "dialog",
+  "parent": "vTk2PWsS",
+  "path": "dialog.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "i67MoHy2",
+  "value": "dialog",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "() => { return \"Add \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"fTVUfcFl\").singleName }",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"fTVUfcFl\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "fTVUfcFl",
+    "button": "Add",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"fTVUfcFl\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"fTVUfcFl\").singleName + \" data\" }",
+    "deleteTitle": "Borrar",
+    "deleteIntroText": "Seguro?",
+    "deleteButton": "Confirmar"
+  }
+}

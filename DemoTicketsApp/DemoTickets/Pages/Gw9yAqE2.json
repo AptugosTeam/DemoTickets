@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "import",
+  "parent": "yRKUiTvF",
+  "path": "import.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Gw9yAqE2",
+  "value": "import",
+  "values": {
+    "moduleName": "{addTickets, editTickets}",
+    "modulePath": "../store/actions/ticketsActions"
+  }
+}

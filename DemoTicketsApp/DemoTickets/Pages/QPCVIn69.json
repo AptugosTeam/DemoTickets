@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "After Page Render",
+  "parent": "D9LdeEft",
+  "path": "apr.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "QPCVIn69",
+  "value": "apr"
+}

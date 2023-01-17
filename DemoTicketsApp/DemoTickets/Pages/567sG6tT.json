@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "useState",
+  "parent": "m3x5AmFI",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "567sG6tT",
+  "value": "useState",
+  "values": {
+    "variableName": "user",
+    "defaultValue": "''"
+  }
+}

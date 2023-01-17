@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "MaterialIcon",
+  "parent": "ueXOxhou",
+  "path": "MaterialIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SbArQHtL",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "Widgets",
+    "color": "primary"
+  }
+}

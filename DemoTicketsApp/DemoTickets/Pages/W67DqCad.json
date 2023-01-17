@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "bU3wGv5C",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "W67DqCad",
+  "value": "text",
+  "values": {
+    "Content": "Have an account? "
+  }
+}

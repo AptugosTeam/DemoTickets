@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "uncontrolledInput",
+  "parent": "dQq3sTMD",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "aKsWKAly",
+  "value": "uncontrolledInput",
+  "values": {
+    "value": "{loadedUser?.Email}",
+    "variant": "outlined",
+    "type": "text",
+    "margin": "normal",
+    "fullwidth": true
+  }
+}

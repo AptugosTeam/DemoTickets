@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "Register Area",
+  "parent": "THX9gJwW",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XGpucL59",
+  "value": "div",
+  "values": {
+    "class": "theme.right"
+  }
+}

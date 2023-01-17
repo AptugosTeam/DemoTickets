@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "useState",
+  "parent": "dg5XsvfF",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NUq3ce8c",
+  "value": "useState",
+  "values": {
+    "defaultValue": "AuthService.getCurrentUser()",
+    "variableName": "currentUser"
+  }
+}

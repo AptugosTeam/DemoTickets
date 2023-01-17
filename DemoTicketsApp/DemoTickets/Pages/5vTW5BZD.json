@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "display": "Save to Database",
+  "isinherited": false,
+  "name": "Save to Database",
+  "parent": "OrTzQlaP",
+  "path": "saveToRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5vTW5BZD",
+  "value": "saveToRedux",
+  "values": {
+    "variablename": "dataTicket",
+    "data": "fTVUfcFl"
+  }
+}

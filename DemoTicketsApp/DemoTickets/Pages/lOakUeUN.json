@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "condition",
+  "parent": "hs2Ai9rG",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "lOakUeUN",
+  "value": "condition",
+  "values": {
+    "condition": "loadedUser"
+  }
+}

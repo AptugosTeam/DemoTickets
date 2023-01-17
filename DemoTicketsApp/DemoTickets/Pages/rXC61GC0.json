@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "text",
+  "parent": "p8yXDZin",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rXC61GC0",
+  "value": "text",
+  "values": {
+    "Content": "Logout"
+  }
+}

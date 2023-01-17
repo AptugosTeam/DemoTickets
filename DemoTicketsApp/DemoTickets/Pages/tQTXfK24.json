@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Login Error",
+  "parent": "DeacnuTc",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tQTXfK24",
+  "value": "useState",
+  "values": {
+    "variableName": "loginError",
+    "defaultValue": "null"
+  }
+}

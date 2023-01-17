@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "condition",
+  "parent": "XTDAxihE",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "bOsAGGcX",
+  "value": "condition",
+  "values": {
+    "condition": "!currentUser"
+  }
+}

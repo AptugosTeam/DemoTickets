@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "recoverSuccess",
+  "parent": "Z2ht4paL",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EpxFGLfn",
+  "value": "useState",
+  "values": {
+    "variableName": "recoverSuccess",
+    "defaultValue": "null"
+  }
+}

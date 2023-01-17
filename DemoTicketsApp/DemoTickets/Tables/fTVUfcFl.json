@@ -1,0 +1,89 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "ID",
+      "data_type": "Number",
+      "key": "Auto Number",
+      "unique_id": "LCCCD6cR",
+      "length": "11"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Nombre",
+      "unique_id": "r8o9vNlg"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Descripcion",
+      "unique_id": "o2LTpWc3"
+    },
+    {
+      "data_type": "Dropdown",
+      "column_name": "Importancia",
+      "unique_id": "7NTHPrrF",
+      "options": "Alta;Baja"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Usuario",
+      "unique_id": "RcNCfzqi"
+    }
+  ],
+  "name": "Tickets",
+  "singleName": "Ticket",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "fTVUfcFl",
+  "x": 286,
+  "y": 27
+}

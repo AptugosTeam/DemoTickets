@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "navbar",
+  "parent": "VfAaTF31",
+  "path": "navbar.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "dIeTLt2t",
+  "value": "navbar",
+  "values": {
+    "Title": "",
+    "Color": "transparent",
+    "Position": "static",
+    "Elevation": "3"
+  }
+}

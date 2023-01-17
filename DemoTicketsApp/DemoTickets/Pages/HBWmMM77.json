@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "Page Footer",
+  "parent": "1SRhQVRL",
+  "path": "pf.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "HBWmMM77",
+  "value": "pf"
+}

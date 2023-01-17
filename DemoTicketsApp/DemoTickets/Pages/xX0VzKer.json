@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "dg5XsvfF",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xX0VzKer",
+  "value": "code",
+  "values": {
+    "code": "if (!authHeaders()) { \n  props.history.push(\"/Login\")\n}"
+  }
+}

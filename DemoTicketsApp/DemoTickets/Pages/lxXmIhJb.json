@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "isinherited": false,
+  "name": "Language",
+  "open": false,
+  "parent": "p0B9kyiw",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lxXmIhJb",
+  "value": "useState",
+  "values": {
+    "variableName": "lang",
+    "defaultValue": "'en'"
+  }
+}

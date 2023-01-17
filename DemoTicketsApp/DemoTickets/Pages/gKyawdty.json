@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "IconButton",
+  "parent": "8cfKCxHZ",
+  "path": "IconButton.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gKyawdty",
+  "value": "IconButton",
+  "values": {
+    "iconstyle": "Filled",
+    "Color": "default",
+    "fontSize": 24,
+    "fontUnit": "px",
+    "Action": "(event) => { setprofileMenuAnchor(event.currentTarget) }",
+    "icon": "Settings"
+  }
+}

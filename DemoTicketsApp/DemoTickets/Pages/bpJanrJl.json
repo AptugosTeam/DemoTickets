@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "qzSzHs2H",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "bpJanrJl",
+  "value": "text",
+  "values": {
+    "Content": "Tabla Backend Tickets"
+  }
+}

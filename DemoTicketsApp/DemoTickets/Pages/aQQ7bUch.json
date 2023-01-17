@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "internalUse": true,
+  "isinherited": false,
+  "name": "Body",
+  "parent": "lHKw9m3I",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "aQQ7bUch",
+  "value": "b",
+  "values": {
+    "className": ""
+  }
+}

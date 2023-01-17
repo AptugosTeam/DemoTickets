@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "parent": "SFUM8UP3",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "B3WPxlfk",
+  "value": "condition",
+  "values": {
+    "condition": "loadedUser"
+  }
+}

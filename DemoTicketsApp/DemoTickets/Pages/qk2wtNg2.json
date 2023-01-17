@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "isinherited": false,
+  "name": "updateStateVariable",
+  "parent": "kGeQdhrs",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "qk2wtNg2",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.table).name\n    const calc = tblname + ' Table'\n    return calc\n  } catch(e) {\n    return 'Table'\n  }\n}",
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "table",
+  "originalName": "table",
+  "parent": "WzhdSRtd",
+  "path": "table.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5nz3qTmI",
+  "value": "table",
+  "values": {
+    "allowEdit": false,
+    "allowDeletion": false,
+    "usePagination": true,
+    "elementsLimit": "10",
+    "table": "fTVUfcFl"
+  }
+}

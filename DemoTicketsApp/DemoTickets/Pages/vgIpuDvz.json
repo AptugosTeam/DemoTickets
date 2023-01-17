@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "fJTUxe1F",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "vgIpuDvz",
+  "value": "text",
+  "values": {
+    "Content": "Logueate para poder crear tickets!"
+  }
+}

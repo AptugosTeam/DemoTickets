@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "TVMk8pCU",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fofLgTKd",
+  "value": "text",
+  "values": {
+    "Content": "Forgot your password?"
+  }
+}

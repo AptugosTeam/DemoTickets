@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "code",
+  "parent": "DH80sMLc",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bze1RMUM",
+  "value": "code",
+  "values": {
+    "code": "import AuthService from '../services/auth.service'\nimport authHeaders from '../services/auth-header'\n"
+  }
+}

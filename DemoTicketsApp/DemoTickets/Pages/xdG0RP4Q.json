@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "Text Content",
+  "parent": "B9uukSrr",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "xdG0RP4Q",
+  "value": "text",
+  "values": {
+    "Content": ""
+  }
+}

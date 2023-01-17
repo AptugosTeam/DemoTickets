@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "div",
+  "parent": "Kssy766L",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gfEwpeRL",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "text",
+  "parent": "LB3UtfKS",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "dK6wV5fi",
+  "value": "text",
+  "values": {
+    "Content": "Bienvenidos a tu generador de tickets! "
+  }
+}

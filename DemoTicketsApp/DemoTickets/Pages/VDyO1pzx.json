@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "tHedC5H3",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VDyO1pzx",
+  "value": "text",
+  "values": {
+    "Content": "{registerError}"
+  }
+}

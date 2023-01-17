@@ -1,0 +1,22 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.data).name\n    const calc = 'Load ' + tblname + ' from database'\n    return calc\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "cascades": false,
+  "collapseStatus": "expand",
+  "display": "Load from Database",
+  "isinherited": false,
+  "name": "Load from Database",
+  "originalName": "Load from Database",
+  "parent": "8wIqeM5b",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "uTLqXdqh",
+  "value": "loadFromRedux",
+  "values": {
+    "defaultPage": "1",
+    "data": "fTVUfcFl",
+    "variableName": "allTickets",
+    "elementsLimit": "5000"
+  }
+}

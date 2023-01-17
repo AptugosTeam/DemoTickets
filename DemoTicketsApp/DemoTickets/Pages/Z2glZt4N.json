@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "text",
+  "parent": "LnHTS4Gc",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Z2glZt4N",
+  "value": "text",
+  "values": {
+    "Content": "{currentUser.FirstName} {currentUser.LastName}"
+  }
+}

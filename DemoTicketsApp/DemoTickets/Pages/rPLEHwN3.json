@@ -1,0 +1,19 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "navbar",
+  "parent": "mTA01m2e",
+  "path": "navbar.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rPLEHwN3",
+  "value": "navbar",
+  "values": {
+    "Title": "",
+    "Color": "transparent",
+    "Position": "static",
+    "Elevation": "3"
+  }
+}

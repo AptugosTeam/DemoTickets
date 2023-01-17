@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "MenuItem",
+  "parent": "pgWiIUTK",
+  "path": "MenuItem.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2U4o0f8t",
+  "value": "MenuItem",
+  "values": {}
+}

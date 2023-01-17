@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "XGpucL59",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7rlOctcr",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "/Register"
+  }
+}

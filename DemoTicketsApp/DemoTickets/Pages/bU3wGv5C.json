@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "Login Area",
+  "parent": "9i3GBeaO",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bU3wGv5C",
+  "value": "div",
+  "values": {
+    "class": "theme.right"
+  }
+}

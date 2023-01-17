@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Login Data",
+  "parent": "DeacnuTc",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "muREGy6I",
+  "value": "useState",
+  "values": {
+    "variableName": "loginData",
+    "defaultValue": "{\n  Email: '',\n  Password: '',\n  RememberMe: false\n}"
+  }
+}

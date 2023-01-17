@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "RWLGRQgH",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VZd3ecP3",
+  "value": "text",
+  "values": {
+    "Content": "Enter your details below."
+  }
+}

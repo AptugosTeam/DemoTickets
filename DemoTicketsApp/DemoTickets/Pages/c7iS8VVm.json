@@ -1,0 +1,20 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    if (ele.values.container && ele.values.item) {\n      return `${ele.name} item container`\n    }\n    if (ele.values.container) {\n      return `${ele.name} container`\n    }\n    if (ele.values.item) {\n      return `${ele.name} item`\n    }\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "cascades": false,
+  "name": "grid",
+  "originalName": "grid",
+  "parent": "NJw9PDUK",
+  "path": "grid.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "c7iS8VVm",
+  "value": "grid",
+  "values": {
+    "item": false,
+    "container": true,
+    "justify": "center",
+    "align": "center",
+    "direction": "column",
+    "spacing": ""
+  }
+}

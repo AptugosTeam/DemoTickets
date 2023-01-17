@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "function cargarTicket",
+  "parent": "m3x5AmFI",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "OrTzQlaP",
+  "value": "function",
+  "values": {
+    "functionName": "cargarTicket",
+    "functionBody": "const dataTicket= {...Ticketsdata, Usuario: loadedUser?.Email}\nsetTicketsData ({ ...initialDataTickets})\nif (dataTicket._id) {\n    dispatch(editTickets(dataTicket as any))\n} else {\n    dispatch(addTickets(dataTicket as any))\n    setsnackBarOpen(true)\n}\n"
+  }
+}

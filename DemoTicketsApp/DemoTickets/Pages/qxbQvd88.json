@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Menu",
+  "parent": "8cfKCxHZ",
+  "path": "Menu.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qxbQvd88",
+  "value": "Menu",
+  "values": {
+    "anchorElement": "profileMenuAnchor",
+    "onClose": "(params) => { setprofileMenuAnchor(null)}"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "Main Area",
+  "parent": "oyd6RL6Q",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "mOmmIEFl",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}

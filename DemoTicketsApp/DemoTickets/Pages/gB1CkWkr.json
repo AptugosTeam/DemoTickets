@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "FdI3dtLb",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gB1CkWkr",
+  "value": "text",
+  "values": {
+    "Content": "Forgot password?"
+  }
+}

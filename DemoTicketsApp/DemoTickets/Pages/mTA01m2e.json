@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "condition",
+  "parent": "wpo3JEQo",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "mTA01m2e",
+  "value": "condition",
+  "values": {
+    "condition": "currentUser"
+  }
+}

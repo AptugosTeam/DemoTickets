@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "registerError Message",
+  "parent": "z1AZkgLU",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6b5AwfJq",
+  "value": "condition",
+  "values": {
+    "condition": "registerError"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.data).name\n    const calc = 'Load ' + tblname + ' from database'\n    return calc\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "cascades": false,
+  "collapseStatus": "expand",
+  "display": "Load from Database",
+  "isinherited": false,
+  "name": "Load from User",
+  "originalName": "Load from Database",
+  "parent": "6U1H1WHT",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "0Nie6iBX",
+  "value": "loadFromRedux",
+  "values": {
+    "defaultPage": "1",
+    "data": "iheRSpBv",
+    "variableName": "loadedUser",
+    "singleResult": true,
+    "useExactMatch": false,
+    "searchString": "currentUser?._id",
+    "fieldToSearch": "_id"
+  }
+}

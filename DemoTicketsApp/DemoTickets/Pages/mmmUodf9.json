@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "code",
+  "parent": "EeLsSMOn",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mmmUodf9",
+  "value": "code",
+  "values": {
+    "code": "import { addUsers } from '../store/actions/usersActions'"
+  }
+}

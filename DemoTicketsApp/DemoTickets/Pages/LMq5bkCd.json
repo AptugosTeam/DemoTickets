@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "bU3wGv5C",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "LMq5bkCd",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "/Login"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "isinherited": false,
+  "name": "Lang Strings Exist?",
+  "open": false,
+  "parent": "n8ZQkDRA",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "kGeQdhrs",
+  "value": "condition",
+  "values": {
+    "condition": "typeof langStrings !== 'undefined'",
+    "useInCode": true
+  }
+}

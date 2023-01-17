@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "button",
+  "parent": "NJw9PDUK",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Tz0l3CXI",
+  "value": "button",
+  "values": {
+    "ButtonText": "Crear Ticket",
+    "Color": "primary",
+    "Action": "/crearTicket"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Table Area",
+  "parent": "lTfTiRGT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "89L6ppuq",
+  "value": "div",
+  "values": {
+    "class": "classes.tableResponsive"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "N1h9JP0q",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "LnqpHZ5g",
+  "value": "text",
+  "values": {
+    "Content": "Sign In"
+  }
+}

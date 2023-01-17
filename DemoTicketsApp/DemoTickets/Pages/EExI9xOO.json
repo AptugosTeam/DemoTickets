@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "button",
+  "parent": "o1K6qkcl",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "EExI9xOO",
+  "value": "button",
+  "values": {
+    "ButtonText": "Cargar Ticket",
+    "Color": "primary",
+    "Action": "cargarTicket()",
+    "Variant": "contained"
+  }
+}

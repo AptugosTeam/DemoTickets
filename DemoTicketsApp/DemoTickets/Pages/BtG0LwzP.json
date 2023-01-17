@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Body",
+  "parent": "Q824Wewl",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "BtG0LwzP",
+  "value": "b",
+  "values": {
+    "primaryColor": "blue",
+    "className": [
+      "theme.retrieveBody"
+    ]
+  }
+}

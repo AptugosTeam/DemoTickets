@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "isinherited": false,
+  "name": "Text Content",
+  "parent": "PkVcyOyW",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Z5sfSJN6",
+  "value": "text",
+  "values": {
+    "Content": "{ticket.ID} {ticket.Nombre} {ticket.Descripcion} {ticket.Importancia} {ticket.Usuario}"
+  }
+}

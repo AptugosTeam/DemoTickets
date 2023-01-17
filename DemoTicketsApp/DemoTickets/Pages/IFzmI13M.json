@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "qR6q6x2Z",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "IFzmI13M",
+  "value": "text",
+  "values": {
+    "Content": "Users list"
+  }
+}

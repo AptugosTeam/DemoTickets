@@ -1,0 +1,34 @@
+{
+  "_id": "T8aP4Gcwnc1ZbIt6",
+  "createdAt": 1673899486250,
+  "modifiedAt": 1673918654232,
+  "settings": {
+    "name": "DemoTickets",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "DemoTickets",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://demoticketslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/demotickets"
+    },
+    "stagging": {
+      "apiURL": "https://demoticketslite.aptugo.app",
+      "type": "Local",
+      "folder": "DemoTickets_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://demoticketslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/demotickets"
+    },
+    "production": {
+      "apiURL": "https://demoticketslite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "DemoTickets",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://demoticketslite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/demotickets"
+    }
+  }
+}
